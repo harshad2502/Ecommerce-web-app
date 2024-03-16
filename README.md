@@ -17,11 +17,6 @@ Welcome to our E-commerce project repository! This project is a comprehensive e-
 - Secure payment processing with Razorpay integration
 
 
-App Demo
-🌐 App Demo [https://eclectic-florentine-199961.netlify.app/]
-
-
-
 
 ## screenshots
 ![Screenshot from 2024-03-02 16-01-41](https://github.com/PratikHGhadge/Prime-delivery-Ecommerce-web-app/assets/93422248/c773c1c7-3b06-4ef1-8545-a7839f4a64df)
